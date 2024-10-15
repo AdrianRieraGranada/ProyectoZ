@@ -1,0 +1,8 @@
+Este es un archivo de texto de ejemplo.
+Contiene varias líneas de contenido para mostrar como se vería un archivo de texto plano.
+
+- Línea de ejemplo 1
+- Línea de ejemplo 2
+- Línea de ejemplo 3
+
+Fin del archivo.
